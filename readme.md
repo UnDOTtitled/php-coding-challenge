@@ -1,6 +1,6 @@
 # Untitled PHP Code Challenge
 
-Here at Untitled we are geeks through and through. As such, we would like you to spend 30 minutes pondering this little challenge. We'd like you to use the latest greatest PHP techniques you know.
+Here at [Untitled](http://un.titled.co.uk) we are geeks through and through. As such, we would like you to spend 30 minutes pondering this little challenge. We'd like you to use the latest greatest PHP techniques you know.
 
 For this exercise we would like you to concentrate on the weapons system for a first person shooter we are creating.
 
