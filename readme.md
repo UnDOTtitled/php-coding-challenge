@@ -14,6 +14,7 @@ Sound Rating: 45
 Damage Level: 40
 
 Attachments
+
 | Name       | Effective Range | Accuracy Rating | Sound Rating | Damage Level |
 |------------|-----------------|-----------------|--------------|--------------|
 | Silencer   | 0               | 0               | -10          | 0            |
@@ -29,6 +30,7 @@ Sound Rating: 70
 Damage Level: 75
 
 Attachments
+
 | Name          | Effective Range | Accuracy Rating | Sound Rating | Damage Level |
 |---------------|-----------------|-----------------|--------------|--------------|
 | Sight         | 15              | 5               | 0            | 0            |
@@ -44,6 +46,7 @@ Sound Rating: 60
 Damage Level: 60
 
 Attachments
+
 | Name          | Effective Range | Accuracy Rating | Sound Rating | Damage Level |
 |---------------|-----------------|-----------------|--------------|--------------|
 | Suppressor    | 0               | -5              | -10          | 0            |
