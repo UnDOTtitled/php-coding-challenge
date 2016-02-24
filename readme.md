@@ -57,7 +57,7 @@ Attachments
 
 ---------------------------------------
 
-We would like you to code these weapons up and then output their values with help from the excellent TWIG teplating engine. Simply instantiate the weapons etc in an index file, then pass them through to a twig template for rendering. We would expect that once a weapon is created with its attachments that we can call methods such as `$weapon->getName()`, which will return the original weapon name as well as the attachments applied to it as part of its name. We would also expect to be able to call `$weapon->getEffectiveRange()` to fetch its range with adjustments already applied for the attachments. If you'd like to, you can also provide a nice method to output allof the values.
+We would like you to code these weapons up and then output their values with help from the excellent [TWIG](http://twig.sensiolabs.org/) teplating engine. Simply instantiate the weapons etc in an index file, then pass them through to a twig template for rendering. We would expect that once a weapon is created with its attachments that we can call methods such as `$weapon->getName()`, which will return the original weapon name as well as the attachments applied to it as part of its name. We would also expect to be able to call `$weapon->getEffectiveRange()` to fetch its range with adjustments already applied for the attachments. If you'd like to, you can also provide a nice method to output allof the values.
 
 ## Example Output
 
