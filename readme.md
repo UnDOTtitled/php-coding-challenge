@@ -1,6 +1,6 @@
-# Untitled PHP Code Challenge
+# Un.titled PHP Code Challenge
 
-Here at [Untitled](http://un.titled.co.uk) we are geeks through and through. As such, we would like you to spend 30 minutes pondering this little challenge. We'd like you to use the latest greatest PHP techniques you know.
+Here at [Un.titled](http://un.titled.co.uk) we are geeks through and through. As such, we would like you to spend 30 minutes pondering this little challenge. We'd like you to use the latest greatest PHP techniques you know.
 
 For this exercise we would like you to concentrate on the weapons system for a first person shooter we are creating.
 
@@ -57,7 +57,7 @@ Attachments
 
 ---------------------------------------
 
-We would like you to code these weapons up and then output their values with help from the excellent [TWIG](http://twig.sensiolabs.org/) teplating engine. Simply instantiate the weapons etc in an index file, then pass them through to a twig template for rendering. We would expect that once a weapon is created with its attachments that we can call methods such as `$weapon->getName()`, which will return the original weapon name as well as the attachments applied to it as part of its name. We would also expect to be able to call `$weapon->getEffectiveRange()` to fetch its range with adjustments already applied for the attachments. If you'd like to, you can also provide a nice method to output allof the values.
+We would like you to code these weapons up and then output their values with help from the excellent [TWIG](http://twig.sensiolabs.org/) templating engine. Simply instantiate the weapons etc in an index file, then pass them through to a twig template for rendering. We would expect that once a weapon is created with its attachments that we can call methods such as `$weapon->getName()`, which will return the original weapon name as well as the attachments applied to it as part of its name. We would also expect to be able to call `$weapon->getEffectiveRange()` to fetch its range with adjustments already applied for the attachments. If you'd like to, you can also provide a nice method to output all of the values.
 
 ## Example Output
 
@@ -76,3 +76,7 @@ Effective Range: 80
 Accuracy Rating: 85  
 Sound Rating: 50  
 Damage Level: 75  
+
+## Submissions
+
+Drop us an email at <hello@un.titled> either pointing us at your public repo or attach it in a zip.
