@@ -79,4 +79,4 @@ Damage Level: 75
 
 ## Submissions
 
-Drop us an email at <hello@un.titled> either pointing us at your public repo or attach it in a zip.
+Drop us an email at <hello@un.titled.co.uk> either pointing us at your public repo or attach it in a zip.
